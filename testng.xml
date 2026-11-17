@@ -1,0 +1,12 @@
+
+<suite name ="E-Commerce Test Suite">
+    <test name="E-Commerce Test">
+        <classes>
+            <class name="test.LoginTest"/>
+            <class name="test.ProductTest"/>
+            <class name="test.CartTest"/>
+            <class name="test.CheckoutInfoTest"/>
+            <class name="test.CheckoutOverviewTest"/>
+        </classes>
+    </test>
+</suite>
